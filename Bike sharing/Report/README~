@@ -1,0 +1,10 @@
+Yunzhi BAI
+Jie ZHENG
+
+*********************************************
+1. We provide three ipython notebooks, one for each datasets (toy datasets + 2 real datasets). PLease consult them without missing anyone.
+2. To run these three notebooks, please run them step by step.
+3. We provide three datasets in this directory. 
+- train.csv, test.csv are for PART 1.
+- train_24.csv is for PART 2.
+- AirQualityUCI.csv is for PART 3.

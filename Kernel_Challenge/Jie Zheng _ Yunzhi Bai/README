@@ -1,0 +1,25 @@
+Kernel Method Challenge
+Students: BAI Yunzhi  &  ZHENG Jie
+
+--------------------------
+	File list
+--------------------------
+
+1. functions_useful.py: contains the SVM and multiclassierOneVsOne code.
+2. kernel_metrics.py: contains different kernels defined in form of functions
+3. start.py: contains the final strategy to get the final prediction
+4. CKN.ipynb: a notebook containing the method CKN we tried to use in this challenge, but had a bad performenance in the final result.
+5. pineapplepen.csv: result ready for submission
+
+
+--------------------------
+	Run the code
+--------------------------
+Type in the terminal : python start.py
+
+
+--------------------------
+	Attention
+--------------------------
+Please ignore the depreciation warnings. 
+It takes 3 hours to get a result on PC.
